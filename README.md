@@ -3,9 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mehmetaniltaysi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mehmetaniltaysi/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/mehmetanltays" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/mehmetanltays" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/aniltaysi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/aniltaysi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mehmetaniltaysi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mehmetaniltaysi" height="30" width="40" /></a>
+<a href="https://kaggle.com/mehmetanltays" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mehmetanltays" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aniltaysi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="aniltaysi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,4 +14,4 @@
 <h3 align="left">Support:</h3>
 <br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetanil&show_icons=true&title_color=3989b1&text_color=a56203&locale=en&layout=compact" alt="mehmetanil" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetanil&show_icons=true&title_color=c51b26&text_color=0e02bb&locale=en&layout=compact" alt="mehmetanil" /></p>
