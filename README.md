@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I am Mehmet</h1>
-<h3 align="center">Third-year Computer Engineering Student at Ege University</h3>
+<h3 align="center">Senior Computer Engineering Student at Ege University</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
