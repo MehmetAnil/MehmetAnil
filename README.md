@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Mehmet Anıl TAYSİ</h1>
 <h3 align="center">4th year computer science student from Ege University, Turkey.</h3>
 
-- 🔭 I’m currently working on **Real Time Object Tracking for Embedded Systems**
+- I’m currently working on **Real Time Object Tracking for Embedded Systems**
 
-- 🌱 I’m currently learning **OpenCV library for C++, Generative Learning Technologies**
+- I’m currently learning **OpenCV library for C++, Generative Learning Technologies**
 
 - 📫 How to reach me **mehmetaniltaysi@gmail.com**
 
