@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mehmet Anıl TAYSİ</h1>
-<h3 align="center">4th year computer science student from Ege University, Turkey.</h3>
+<h3 align="center">Software Engineer at Organon Analytics</h3>
 
 - I’m currently working on **Real Time Object Tracking for Embedded Systems**
 
