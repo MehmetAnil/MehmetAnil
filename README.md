@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mehmet Anıl TAYSİ</h1>
 <h3 align="center"></h3>
 
-- put the wheels in motion.**
+- **put the wheels in motion.**
 
 - 📫 How to reach me **mehmetaniltaysi@gmail.com**
 
